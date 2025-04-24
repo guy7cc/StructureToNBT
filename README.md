@@ -1,6 +1,6 @@
 # StructureToNBT
 
-[[English](https://github.com/guy7cc/StructureToNBT/README.md)] [[日本語](https://github.com/guy7cc/StructureToNBT/README_ja.md)]
+[[English](https://github.com/guy7cc/StructureToNBT/blob/main/README.md)] [[日本語](https://github.com/guy7cc/StructureToNBT/blob/main/README_ja.md)]
 
 **StructureToNBT** is a Minecraft plugin for Paper servers that enables you to save a selected region in NBT (.nbt) format and later place it back into the world.
 

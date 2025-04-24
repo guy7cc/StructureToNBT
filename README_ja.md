@@ -1,6 +1,6 @@
 # StructureToNBT
 
-[[English](https://github.com/guy7cc/StructureToNBT/README.md)] [[日本語](https://github.com/guy7cc/StructureToNBT/README_ja.md)]
+[[English](https://github.com/guy7cc/StructureToNBT/blob/main/README.md)] [[日本語](https://github.com/guy7cc/StructureToNBT/blob/main/README_ja.md)]
 
 **StructureToNBT** は、Paper サーバー上で動作する Minecraft プラグインです。選択した範囲を NBT（.nbt） 形式で保存し、あとからワールド内に配置する機能を提供します。
 
